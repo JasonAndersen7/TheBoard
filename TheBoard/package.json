@@ -1,14 +1,14 @@
 {
   "name": "the-board",
-  "version": "0.0.1",
-  "description": "a message board based on sticky notes ",
+  "version": "0.0.0",
+  "description": "TheBoard",
   "main": "server.js",
   "author": {
-    "name": "jason andersen",
-    "email": "andersen.jason7@gmail.com"
+    "name": ""
   },
   "dependencies": {
-    "express": "^4.16.4",
-    "underscore": "^1.9.1"
+    "express": "^4.17.1",
+    "underscore": "^1.9.1",
+    "vash": "^0.12.6"
   }
 }
